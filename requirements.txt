@@ -1,8 +1,2 @@
-tensorflow>=2.15.0
-numpy
-pillow
-flask
-matplotlib
-scikit-learn
 streamlit
 pillow
